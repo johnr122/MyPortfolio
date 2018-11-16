@@ -157,6 +157,9 @@ a.linkedin {
 a.github {
   background-image: url(images/github.svg);
 }
+a.freecodecamp {
+  background-image: url(images/fcc.svg);
+}
 a.codecademy {
   background-image: url(images/codecademy.svg);
 }
